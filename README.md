@@ -4,8 +4,6 @@ Client config same as in digitalocean tutorial.
 
 Commented this section in server.conf
 
-#You can uncomment this out on
-#non-Windows systems.
 #user nobody
 #group nobody
 
