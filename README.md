@@ -1,2 +1,4 @@
 # openvpn-server
-tips
+
+Client config same as in digitalocean tutorial.
+
